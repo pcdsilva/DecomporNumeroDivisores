@@ -8,4 +8,4 @@ Inicialmente esta configurado o caminho do log para a pasta do aplicativo C:\Dec
 A solution esta dentro da pasta ProcessaDecomposicaoNumeroDivisores.Bacth do projeto.
 Solution ProcessaDecomposicaoNumeroDivisores.Bacth.sln
 
-Para visualizar como ficou a formatação do console é só colocar um backpoint na linha 66 da classe ProcessaDecomposicaoNumeroDivisoresBiz do projeto ProcessaDecomposicaoNumeroDivisores.Biz.
+Para visualizar como ficou a formatação do console é só colocar um brackpoint na linha 66 da classe ProcessaDecomposicaoNumeroDivisoresBiz do projeto ProcessaDecomposicaoNumeroDivisores.Biz.
